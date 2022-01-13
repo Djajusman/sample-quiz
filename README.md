@@ -2,7 +2,7 @@
 
 Sample Quiz 
 
-A Base qiuz web app.
+A Base quiz web app.
 
 
 ## Installation and Setup Instructions
